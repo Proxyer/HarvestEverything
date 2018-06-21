@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <BodyPartDef>
+    <defName>Eye</defName>
+    <label>eye</label>
+    <hitPoints>10</hitPoints>
+    <permanentInjuryBaseChance>0.5</permanentInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <socketed>true</socketed>
+    <beautyRelated>true</beautyRelated>
+    <tags>
+      <li>SightSource</li>
+    </tags>
+    <hitChanceFactors>
+      <li>
+        <key>Blunt</key>
+        <value>0</value>
+      </li>
+    </hitChanceFactors>
+	<spawnThingOnRemoved>Eye</spawnThingOnRemoved>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>Ear</defName>
+    <label>ear</label>
+    <hitPoints>10</hitPoints>
+    <frostbiteVulnerability>5</frostbiteVulnerability>
+    <skinCovered>true</skinCovered>
+    <beautyRelated>true</beautyRelated>
+    <tags>
+      <li>HearingSource</li>
+    </tags>
+	<spawnThingOnRemoved>Ear</spawnThingOnRemoved>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>Nose</defName>
+    <label>nose</label>
+    <hitPoints>10</hitPoints>
+    <frostbiteVulnerability>5</frostbiteVulnerability>
+    <skinCovered>true</skinCovered>
+    <beautyRelated>true</beautyRelated>
+    <solid>true</solid>
+    <bleedRate>0</bleedRate>
+    <permanentInjuryBaseChance>0</permanentInjuryBaseChance>
+	<spawnThingOnRemoved>Nose</spawnThingOnRemoved>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>Jaw</defName>
+    <label>jaw</label>
+    <hitPoints>20</hitPoints>
+    <frostbiteVulnerability>2</frostbiteVulnerability>
+    <permanentInjuryBaseChance>0</permanentInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <solid>true</solid>
+    <beautyRelated>true</beautyRelated>
+    <bleedRate>0</bleedRate>
+    <tags>
+      <li>EatingSource</li>
+      <li>TalkingSource</li>
+    </tags>
+	<spawnThingOnRemoved>Jaw</spawnThingOnRemoved>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>Leg</defName>
+    <label>leg</label>
+    <hitPoints>30</hitPoints>
+    <skinCovered>true</skinCovered>
+    <tags>
+      <li>MovingLimbCore</li>
+    </tags>
+	<spawnThingOnRemoved>Leg</spawnThingOnRemoved>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>Foot</defName>
+    <label>foot</label>
+    <hitPoints>20</hitPoints>
+    <frostbiteVulnerability>0.5</frostbiteVulnerability>
+    <skinCovered>true</skinCovered>
+    <tags>
+      <li>MovingLimbSegment</li>
+    </tags>
+	<spawnThingOnRemoved>Foot</spawnThingOnRemoved>
+  </BodyPartDef>
+
+</Defs>

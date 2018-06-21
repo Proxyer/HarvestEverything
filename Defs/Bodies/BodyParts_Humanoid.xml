@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<BodyPartDef>
+		<defName>Arm</defName>
+		<label>arm</label>
+		<hitPoints>30</hitPoints>
+		<skinCovered>true</skinCovered>
+		<tags>
+			<li>ManipulationLimbCore</li>
+		</tags>
+		<spawnThingOnRemoved>Arm</spawnThingOnRemoved>
+	</BodyPartDef>
+
+	<BodyPartDef>
+		<defName>Hand</defName>
+		<label>hand</label>
+		<hitPoints>20</hitPoints>
+		<frostbiteVulnerability>0.5</frostbiteVulnerability>
+		<skinCovered>true</skinCovered>
+		<tags>
+			<li>ManipulationLimbSegment</li>
+		</tags>
+		<spawnThingOnRemoved>Hand</spawnThingOnRemoved>
+	</BodyPartDef>
+
+</Defs>
