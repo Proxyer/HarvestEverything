@@ -2,6 +2,26 @@
 <Defs>
 
 	<ThingDef ParentName="BodyPartNaturalBase">
+		<defName>Skull</defName>
+		<label>skull</label>
+		<description>A biological human skull. Protects the brain and scares people.</description>
+		<statBases>
+			<MarketValue>800</MarketValue>
+			<Mass>1.1</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="BodyPartNaturalBase">
+		<defName>Brain</defName>
+		<label>brain</label>
+		<description>A biological human brain. Gives a creature the ability to think.</description>
+		<statBases>
+			<MarketValue>800</MarketValue>
+			<Mass>1.5</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<ThingDef ParentName="BodyPartNaturalBase">
 		<defName>Leg</defName>
 		<label>leg</label>
 		<description>A biological human leg. Basically long meaty sticks that let you move around.</description>
