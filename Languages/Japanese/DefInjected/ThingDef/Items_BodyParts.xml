@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Leg.label>脚(移植用)</Leg.label>
+  <Leg.description>人間から摘出された生体移植用の、腰から下の部位(下肢:Leg)です。あなたはこの基本的な骨格と関節を持つ長い肉の棒によって、周りを歩くことができます。</Leg.description>
+
+  <Foot.label>足(移植用)</Foot.label>
+  <Foot.description>人間から摘出された生体移植用の、足首から下の部位(足:Foot)です。あなたが靴を履くことができるところです。</Foot.description>
+
+  <Arm.label>腕(移植用)</Arm.label>
+  <Arm.description>人間から摘出された生体移植用の、肩から指先までの部位(上肢:Arm)です。腕は脚と同じ四肢ですが、あなたは腕を使って物を持ち運ぶことができます。</Arm.description>
+
+  <Hand.label>手(移植用)</Hand.label>
+  <Hand.description>人間から摘出された生体移植用の、ひじから指先までの部位(手:Hand)です。人類の進化の証であり、男性のために仕事をします。</Hand.description>
+
+  <Stomach.label>胃(移植用)</Stomach.label>
+  <Stomach.description>人間から摘出された生体移植用の胃袋です。食べ物を消化して、エネルギーと栄養に変えます。</Stomach.description>
+
+  <Eye.label>眼球(移植用)</Eye.label>
+  <Eye.description>人間から摘出された生体移植用の眼球(左右両方)です。光を取り入れて、周囲の光学的な情報を知ることができます。</Eye.description>
+
+  <Nose.label>鼻(移植用)</Nose.label>
+  <Nose.description>人間から摘出された生体移植用の鼻です。この悪臭を識別するのに非常に便利な臓器は、顔に無くてはならない存在感を出しています。</Nose.description>
+
+  <Ear.label>耳(移植用)</Ear.label>
+  <Ear.description>人間から摘出された生体移植用の耳(左右両方)です。空気中の振動を感知して、人間が音の情報を得ることを可能にします。</Ear.description>
+
+  <Jaw.label>顎(移植用)</Jaw.label>
+  <Jaw.description>人間から摘出された生体移植用の顎(上下)です。食べ物を咀嚼したり、会話を楽しむための歯と顎の上下セットです。</Jaw.description>
+
+
+</LanguageData>
