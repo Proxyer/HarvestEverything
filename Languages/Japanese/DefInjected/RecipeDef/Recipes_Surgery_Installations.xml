@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallNaturalEye.label>眼球(移植用)を移植</InstallNaturalEye.label>
+  <InstallNaturalEye.description>生体から摘出された眼球を移植します。</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>眼球(移植用)を生体移植中</InstallNaturalEye.jobString>
+
+  <InstallNaturalNose.label>鼻(移植用)を移植</InstallNaturalNose.label>
+  <InstallNaturalNose.description>生体から摘出された鼻を移植します。</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>鼻(移植用)を生体移植中</InstallNaturalNose.jobString>
+
+  <InstallNaturalEar.label>耳(移植用)を移植</InstallNaturalEar.label>
+  <InstallNaturalEar.description>生体から摘出された耳を移植します。</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>耳(移植用)を生体移植中</InstallNaturalEar.jobString>
+
+  <InstallNaturalJaw.label>顎(移植用)を移植</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>生体から摘出された顎を移植します。</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>顎(移植用)を生体移植中</InstallNaturalJaw.jobString>
+
+  <InstallNaturalArm.label>腕(移植用)を移植</InstallNaturalArm.label>
+  <InstallNaturalArm.description>生体から摘出された腕を移植します。</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>腕(移植用)を生体移植中</InstallNaturalArm.jobString>
+
+  <InstallNaturalLeg.label>脚(移植用)を移植</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>生体から摘出された脚を移植します。</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>脚(移植用)を生体移植中</InstallNaturalLeg.jobString>
+
+  <InstallNaturalStomach.label>胃(移植用)を移植</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>生体から摘出された胃を移植します。</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>胃(移植用)を生体移植中</InstallNaturalStomach.jobString>
+
+  <InstallNaturalHand.label>手(移植用)を移植</InstallNaturalHand.label>
+  <InstallNaturalHand.description>生体から摘出された手を移植します。</InstallNaturalHand.description>
+  <InstallNaturalHand.jobString>手(移植用)を生体移植中</InstallNaturalHand.jobString>
+
+  <InstallNaturalFoot.label>足(移植用)を移植</InstallNaturalFoot.label>
+  <InstallNaturalFoot.description>生体から摘出された足を移植します。</InstallNaturalFoot.description>
+  <InstallNaturalFoot.jobString>足(移植用)を生体移植中</InstallNaturalFoot.jobString>
+
+
+</LanguageData>
