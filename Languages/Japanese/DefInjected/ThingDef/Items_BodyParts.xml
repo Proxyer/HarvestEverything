@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Skull.label>頭蓋骨(移植用)</Skull.label>
+  <Skull.description>人間から摘出された生体移植用の、頭蓋骨です。脳を守っており、そのドクロの形状は人々を怖がらせます。</Skull.description>
+
+  <Brain.label>脳(移植用)</Brain.label>
+  <Brain.description>人間から摘出された生体移植用の、脳です。生き物に思考能力を与えます。脳の機能に障害がある場合、それらの補修を行うことができます。</Brain.description>
+
   <Leg.label>脚(移植用)</Leg.label>
   <Leg.description>人間から摘出された生体移植用の、腰から下の部位(下肢:Leg)です。あなたはこの基本的な骨格と関節を持つ長い肉の棒によって、周りを歩くことができます。</Leg.description>
 
