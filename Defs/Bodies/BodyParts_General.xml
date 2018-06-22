@@ -3,6 +3,31 @@
 <Defs>
 
   <BodyPartDef>
+    <defName>Skull</defName>
+    <label>skull</label>
+    <hitPoints>30</hitPoints>
+    <permanentInjuryBaseChance>0</permanentInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <solid>true</solid>
+    <canSuggestAmputation>false</canSuggestAmputation>
+    <bleedRate>0</bleedRate>
+	<spawnThingOnRemoved>Skull</spawnThingOnRemoved>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>Brain</defName>
+    <label>brain</label>
+    <hitPoints>10</hitPoints>
+    <permanentInjuryBaseChance>1</permanentInjuryBaseChance>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>ConsciousnessSource</li>
+    </tags>
+    <canSuggestAmputation>false</canSuggestAmputation>
+	<spawnThingOnRemoved>Brain</spawnThingOnRemoved>
+  </BodyPartDef>
+  
+  <BodyPartDef>
     <defName>Eye</defName>
     <label>eye</label>
     <hitPoints>10</hitPoints>
