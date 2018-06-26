@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <InstallNaturalSkull.label>頭蓋骨(移植用)を移植</InstallNaturalSkull.label>
-  <InstallNaturalSkull.description>生体から摘出された頭蓋骨を移植します。</InstallNaturalSkull.description>
-  <InstallNaturalSkull.jobString>頭蓋骨(移植用)を生体移植中</InstallNaturalSkull.jobString>
+  <!-- <InstallNaturalSkull.label>頭蓋骨(移植用)を移植</InstallNaturalSkull.label> -->
+  <!-- <InstallNaturalSkull.description>生体から摘出された頭蓋骨を移植します。</InstallNaturalSkull.description> -->
+  <!-- <InstallNaturalSkull.jobString>頭蓋骨(移植用)を生体移植中</InstallNaturalSkull.jobString> -->
 
   <InstallNaturalBrain.label>脳(移植用)を移植</InstallNaturalBrain.label>
   <InstallNaturalBrain.description>生体から摘出された脳を移植します。</InstallNaturalBrain.description>
