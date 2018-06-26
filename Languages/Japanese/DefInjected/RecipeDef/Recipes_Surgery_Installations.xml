@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- <InstallNaturalSkull.label>頭蓋骨(移植用)を移植</InstallNaturalSkull.label> -->
-  <!-- <InstallNaturalSkull.description>生体から摘出された頭蓋骨を移植します。</InstallNaturalSkull.description> -->
-  <!-- <InstallNaturalSkull.jobString>頭蓋骨(移植用)を生体移植中</InstallNaturalSkull.jobString> -->
-
-  <InstallNaturalBrain.label>脳(移植用)を移植</InstallNaturalBrain.label>
-  <InstallNaturalBrain.description>生体から摘出された脳を移植します。</InstallNaturalBrain.description>
-  <InstallNaturalBrain.jobString>脳(移植用)を生体移植中</InstallNaturalBrain.jobString>
-
   <InstallNaturalEye.label>眼球(移植用)を移植</InstallNaturalEye.label>
   <InstallNaturalEye.description>生体から摘出された眼球を移植します。</InstallNaturalEye.description>
   <InstallNaturalEye.jobString>眼球(移植用)を生体移植中</InstallNaturalEye.jobString>
@@ -44,6 +36,14 @@
   <InstallNaturalFoot.label>足(移植用)を移植</InstallNaturalFoot.label>
   <InstallNaturalFoot.description>生体から摘出された足を移植します。</InstallNaturalFoot.description>
   <InstallNaturalFoot.jobString>足(移植用)を生体移植中</InstallNaturalFoot.jobString>
+
+  <!-- <InstallNaturalSkull.label>頭蓋骨(移植用)を移植</InstallNaturalSkull.label> -->
+  <!-- <InstallNaturalSkull.description>生体から摘出された頭蓋骨を移植します。</InstallNaturalSkull.description> -->
+  <!-- <InstallNaturalSkull.jobString>頭蓋骨(移植用)を生体移植中</InstallNaturalSkull.jobString> -->
+
+  <!-- <InstallNaturalBrain.label>脳(移植用)を移植</InstallNaturalBrain.label> -->
+  <!-- <InstallNaturalBrain.description>生体から摘出された脳を移植します。</InstallNaturalBrain.description> -->
+  <!-- <InstallNaturalBrain.jobString>脳(移植用)を生体移植中</InstallNaturalBrain.jobString> -->
 
 
 </LanguageData>
